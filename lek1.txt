@@ -1,0 +1,9 @@
+JRE(JVM) - java runtime enviroment - to chto vipolnyaet
+JDK - java development kit / doki/ readmi /examples - s pomoshyu chego vipolnyaet
+
+javac hello.java - skompelirovat
+java hello - zapustit file
+все классы пишутся с большой буквы
+
+int переменный с маленькой буквы
+всё содержимое в классах
